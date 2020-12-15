@@ -1,3 +1,7 @@
+Technologies: Laravel, MySQL   
+Description: User can book their room. Admin can enter leaving date of users when they leave and their room will be unallocated automatically so after that users can see unallocated rooms in their portal and can book the room. Admin can also delete or add the users.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
